@@ -5,7 +5,6 @@ public class Main {
   }
 
   static int fee(int age) {
-    int ret;
     if (age <= 3) {
       return 100;
     } else if (age <= 9) {
@@ -13,6 +12,5 @@ public class Main {
     } else {
       return 500;
     }
-    return ret;
   }
 }
