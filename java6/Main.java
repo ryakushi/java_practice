@@ -1,7 +1,5 @@
-package java6;
-
 /**
- * “ñ•ª’Tõ‚Ì—ûK
+ “ñ•ª’Tõ
  */
 public class Main {
 

@@ -1,5 +1,3 @@
-package java5;
-
 /**
  * Main
  */
